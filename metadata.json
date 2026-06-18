@@ -1,0 +1,8 @@
+{
+  "name": "AI Resume Analyzer and Interview Generator",
+  "description": "An AI-powered system that analyzes resumes for ATS compatibility, skills extraction, strengths, and generates realistic HR and Technical interview questions with sample answers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
